@@ -10,3 +10,5 @@ commit 3 on feature branch
 
 ### rebase
 commit 1 on rebase branch
+
+commit 2 on rebase branch
