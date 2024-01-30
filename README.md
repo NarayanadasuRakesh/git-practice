@@ -14,3 +14,5 @@ commit 1 on rebase branch
 commit 2 on rebase branch
 
 commit 3 on rebase branch
+
+commit 4 on rebase using merge strategy
