@@ -20,3 +20,5 @@ commit 4 on rebase using merge strategy
 commit 5 on rebase using merge strategy
 
 commit 6 on rebase using merge strategy
+
+commit 7 on rebase using squash strategy
