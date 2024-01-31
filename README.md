@@ -27,6 +27,7 @@ commit 8 on rebase using squash strategy
 
 commit 9 on rebase using squash strategy
 
+
 ### conflict
 How conflict occurs?
 line 1 code developed
