@@ -31,5 +31,7 @@ commit 9 on rebase using squash strategy
 ### conflict
 How conflict occurs?
 line 1 code developed
+
 line 2 code developed
+
 line 3 code developed
