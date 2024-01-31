@@ -26,3 +26,4 @@ commit 7 on rebase using squash strategy
 commit 8 on rebase using squash strategy
 
 commit 9 on rebase using squash strategy
+
